@@ -1,15 +1,15 @@
 ### Ola, Eu souo Adalberto+Camosso👋!Bem vindo ao meu perfil 👾;
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](www.linkedin.com/in/fernando-sebastião-727a472b4)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vadilsonfernando.miranda/)
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-sebastião-727a472b4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandoafonso.official/)
+[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/Adalberto-Camosso-727a472b4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AdalbertoCamosso.official/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Adalberto+Camosso&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+This+Is+MY+PROFILE+REPOSITORIE;I'm+currently+studying+at+Makarenko,+'IPIL';I'm+from+África+Angola+Luanda;Follow+me+to+keep+up+to+date+with+my+project+;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Adalberto-Jamba&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adalberto Jamba stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AdalbertoCamosso&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adalberto Jamba stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adalberto Jamba &layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
