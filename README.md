@@ -1,86 +1,98 @@
-### Ola, Eu souo Adalberto+Camosso👋!Bem vindo ao meu perfil 👾;
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](www.linkedin.com/in/fernando-sebastião-727a472b4)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vadilsonfernando.miranda/)
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/Adalberto-Camosso-727a472b4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AdalbertoCamosso.official/)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Adalberto+Camosso&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+This+Is+MY+PROFILE+REPOSITORIE;I'm+currently+studying+at+Makarenko,+'IPIL';I'm+from+África+Angola+Luanda;Follow+me+to+keep+up+to+date+with+my+project+;Be+Welcome!:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AdalbertoCamosso&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adalberto Jamba stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adalberto Jamba &layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
-
-
 <div align="center">
-<h1>PROFILE REPOSITORIE</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffe600&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-Vindo+ao+meu+Perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
-## Main Skills
-<div style="display:inline_block; margin: 19px;">
 
-<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffe600&height=120&section=header&text=Adalberto+Camosso&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img style="margin:10px" align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+#
 
-<img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<p align="center">
 
-<img align="center"  style="margin:10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
-<img align="center" style="margin:10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-<img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-</div>
-
-## Other Knowlegde
-<div style="display:inline_block; margin:19px; ">
-
-<img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss">
-<img align="center" style="margin:10px"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-<img align="center" style="margin:10px"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
-<img align="center" style="margin:10px"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostegreSql">
-<img align="center" style="margin:10px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-<img align="center" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">
+<h4>*Tecnico Médio em Informática</h4>
+<h3 style="color:yellow">*Software Developer </h3>
+<h4>*Designer Photoshop</h4>
+<h4>*Web Design</h4>
 
 
-## Tools
-<div  style="display:inline_block; margin:19px; ">
-    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black" alt="Visual Code">
-    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GIT HUB">
-    <img align="center" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=black" alt="JWB">
-    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" alt="Windows">
-    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117" alt="NPM">
-    
 
-</div>
+Estudante e Desenvolvimento de Sistemas  Atualmente trabalho como como <b style="color:yellow">FrontEnd</b> React Js e React Native estudando <b style="color:yellow">Next</b> paralelamente.
 
-## Studying in the Moment
+<b style="color:yellow">Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</b>
+  
+#
 
-<div style="display: inline_block">
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Meus Contactos</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:camosso26@gmail.com)
+
+
+
+<h3 align="left">My Stack </h3>
+
+#Front End
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+ 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
 <img align="center" style="margin:10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript">
-<img align="center" style="margin-right:10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img align="center" style="margin:10px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=black" alt="Prisma">
+  <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss">
+
 <img align="center" style="margin:10px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-</div> 
-<div align="center">
-  <br>
-    <p align="centre">
-      <b>Contagem de visitantas</b>
-    </p>  
-    <p align="center">
-      <img align="center" src="https://profile-counter.glitch.me/{fernando-sebastiao}/count.svg" />
-    </p> 
-  <br>
+
+
+</div>
+  #Back End
+<div align="left">
+  </br>
+  <img align="center" style="margin-right:10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+
+  <img width="8" />
+<img align="center" style="margin:10px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=black" alt="Prisma">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
+
+
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+#
 
-### Apaixonado por programação e gosto efectivamente de trazer soluções reais por meio da tecnológia.
+<div style="text-align: center;" align="center">
+  <h3 style="color:yellow">* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdalbertoCamosso&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ffe600&text_color=FFF&border_radius=3&border_color=ffe600&icon_color=ffe600&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/AdalbertoCamosso/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ffe600&hide=html,css&bg_color=000&text_color=ffe600&border_radius=3&border_color=ffe600&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
+
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdalbertoCamosso/AdalbertoCamosso/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Obrigado,+Por+ter+passado+por+cá+Volte+Sempre;I'm+currently+studying+at+Makarenko,+'IPIL';I'm+from+África+Angola+Luanda;Follow+me+to+keep+up+to+date+with+my+project+;Be+Welcome!:%29)](https://git.io/typing-svg)
